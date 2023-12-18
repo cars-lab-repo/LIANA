@@ -1,4 +1,4 @@
-# LIANA </br>
+# LIANA: Reconfigurable Run-Time Hardware Trojan Mitigation for Logic-Locked Circuits </br>
 This repository contains three scripts related to hardware Trojan mitigation. </br>
 [Jordan Maynard](https://github.com/j0rban) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
