@@ -7,12 +7,12 @@ This repository contains three scripts related to hardware Trojan mitigation.
 * `duplicate_state.cpp`:  duplicates a chosen state in the design </br>
 * `insert_trojan.cpp` : inserts a stealthy Trojan on a chosen state </br>
 * `benchmarks/` : folder containing original and example benchmarks
-  * `benchmarks/v/` : original FSM benchmarks from [Synthezza](https://www.synthezza.com/fsm-benchmarks)
-  * `benchmarks/v_d` : least likely state duplicated
-  * `benchmarks/v_ti1` : stealthy stuck-at-fault Trojan inserted on least likely state
-  * `benchmarks/v_ti2` : stealthy wrong transition Trojan inserted on least likely state
-  * `benchmarks/v_d_ti1` : least likely state duplicated and stealthy stuck-at-fault Trojan introduced to original least likely state
-  * `benchmarks/v_d_ti2` : least likely state duplicated and stealthy wrong transition Trojan introduced to original least likely state
+  * `v/` : original FSM benchmarks from [Synthezza](https://www.synthezza.com/fsm-benchmarks)
+  * `v_d/` : least likely state duplicated
+  * `v_ti1/` : stealthy stuck-at-fault Trojan inserted on least likely state
+  * `v_ti2/` : stealthy wrong transition Trojan inserted on least likely state
+  * `v_d_ti1/` : least likely state duplicated and stealthy stuck-at-fault Trojan introduced to original least likely state
+  * `v_d_ti2/` : least likely state duplicated and stealthy wrong transition Trojan introduced to original least likely state
 * `output/` : output location for user-run scripts
 
 # Compiling
