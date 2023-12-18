@@ -34,3 +34,16 @@ This repository contains three scripts related to hardware Trojan mitigation. </
   * Choose the state you want to duplicate by number. *NOTE: if infecting a duplicate state, use `2_d`*
   * Choose the number of state visits before Trojan trigger activates.
   * Choose between stuck-at-fault or wrong state transition payload.
+
+# Citation
+```
+@INPROCEEDINGS{LIANA,
+  author={Maynard, Jordan and Rezaei, Amin},
+  booktitle={}, 
+  title={}, 
+  year={},
+  volume={},
+  number={},
+  pages={},
+  doi={}
+  }
