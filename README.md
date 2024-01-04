@@ -23,14 +23,14 @@ This repository contains three scripts related to hardware Trojan mitigation. </
 # Usage
 1. `find_rare.cpp`
   * Run `./fr.exe`.
-  * Input benchmark file name, including ".v". *Example: `benchmarks/v/ass13.v`*
+  * Input benchmark file name, including ".v". *Example: `benchmarks/v/as13.v`*
 2. `duplicate_state.cpp`
   * Run `./ds.exe`.
-  * Input benchmark file name, including ".v". *Example: `benchmarks/v/ass13.v`*
+  * Input benchmark file name, including ".v". *Example: `benchmarks/v/as13.v`*
   * Choose the state you want to duplicate by number. *NOTE: if duplicating a duplicate state, use `2_d`*
 3. `insert_trojan.cpp`
   * Run `./it.exe`.
-  * Input benchmark file name, including ".v". *Example: `benchmarks/v/ass13.v`*
+  * Input benchmark file name, including ".v". *Example: `benchmarks/v/as13.v`*
   * Choose the state you want to duplicate by number. *NOTE: if infecting a duplicate state, use `2_d`*
   * Choose the number of state visits before Trojan trigger activates.
   * Choose between stuck-at-fault or wrong state transition payload.
