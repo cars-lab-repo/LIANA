@@ -33,7 +33,7 @@ This repository contains three scripts related to reconfigurable hardware Trojan
   * Input benchmark file name, including ".v". *Example: `benchmarks/v/as13.v`*
   * Choose the state you want to duplicate by number. *NOTE: if infecting a duplicate state, use `2_d`*
   * Choose the number of state visits before Trojan trigger activates.
-  * Choose between stuck-at-fault or wrong state transition payload.
+  * Choose between stuck-at-fault or wrong state transition payload. 
 
 # Citation
 ```
