@@ -4,7 +4,7 @@
 #include <string>
 #include <array>
 #include <vector>
-
+ 
 using namespace std;
 
 int num_states;

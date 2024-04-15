@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+ 
 using namespace std;
 
 void insert_trojan(string in_file, string out_file, string target, string trigger_num, char payload)
