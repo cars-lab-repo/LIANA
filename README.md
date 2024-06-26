@@ -39,11 +39,11 @@ This repository contains three scripts related to reconfigurable hardware Trojan
 ```
 @INPROCEEDINGS{LIANA,
   author={Maynard, Jordan and Rezaei, Amin},
-  booktitle={Proceedings of 17th IEEE Dallas Circuits and Systems Conference (DCAS)}, 
+  booktitle={2024 IEEE 17th Dallas Circuits and Systems Conference (DCAS)}, 
   title={Reconfigurable Run-Time Hardware Trojan Mitigation for Logic-Locked Circuits}, 
   year={2024},
   volume={},
   number={},
-  pages={},
-  doi={}
+  pages={1-6},
+  doi={10.1109/DCAS61159.2024.10539881}
   }
